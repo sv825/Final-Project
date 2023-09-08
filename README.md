@@ -1,2 +1,2 @@
-# Voter-Container
-Lab 2: Cloud Native Packaging
+# Final Project
+Final Project
